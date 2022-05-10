@@ -1,3 +1,12 @@
+# This file runs the route planner algorithm
+# This code will open "map.txt" and take info about cities and routes between them
+
+#HOW TO RUN:
+# cityList contains list of cities that you wish to visit, in order.
+# you will start from the city at index 0, and will iterate through list.
+# IMPORTANT: code will not work if there are <2 cities in list.
+
+
 import graph
 
 file = open("map.txt")
@@ -18,8 +27,8 @@ for line in file:
             
 file.close()
     
-#G.dijkstra(0) #NYC
-#G.printPath("Houston, TX")
+#graph.G.dijkstra(0) #NYC
+#graph.G.printPath("Houston, TX")
 
 cityList = ["New York City, NY","Jacksonville, FL", "Washington, DC", "San Francisco, CA", "Las Vegas, NV"]
 

@@ -1,3 +1,8 @@
+* File contains list of cities and distance of
+* direct route to previous cities, respecticely.
+* A "-" means no direct route exists, must route
+* through adjacent cities.
+*
 New York City, NY
 Los Angeles, CA
 -

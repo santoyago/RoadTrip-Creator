@@ -1,0 +1,49 @@
+New York City, NY
+Los Angeles, CA
+-
+Chicago, IL
+- -
+Houston, TX
+- - -
+Phoenix, AZ
+- 372 - -
+San Antonio, TX
+- - - 197 -
+Philadelphia, PA
+97 - - - - -
+San Diego, CA
+- 120 - - 355 - -
+Dallas, TX
+- - - 239 - - - -
+Austin, TX
+- - - - - 79 - - 195
+San Jose, CA
+- 340 - - - - - - - -
+Fort Worth, TX
+- - - - - - - - 32 190 -
+Jacksonville, FL
+- - - 870 - - - - 996 - - -
+Charlotte, NC
+- - - - - - - - - - - - 383
+Colombus, OH
+- - - - - - 469 - - - - - - 426
+Indianapolis, IN
+- - 182 - - - - - - - - - - - 176
+San Francisco, CA
+- - - - - - - - - - 48 - - - - -
+Seattle, WA
+- - - - - - - - - - - - - - - - 808
+Denver, CO
+- - 1002 - - - - - - - - - - - - - 1250 1305
+Washington, DC
+- - - - - - 140 - - - - - - 384 402 - - - -
+Boston, MA
+215 - - - - - - - - - - - - - - - - - - -
+El Paso, TX
+- - - - 402 551 - - - - - 602 - - - - - - 637 - -
+Nashville, TN
+- - - - - - - - 664 - - - 593 409 379 288 - - 1157 666 - -
+Oklahoma City, OK
+- - 794 - 959 - - - 206 - - 200 - - - 740 - - 622 - - 682 677
+Las Vegas, NV
+- 270 - - 301 - - - - - 528 - - - - - - - 749 - - - - -
